@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "xet-core",
+  "versions": [
+    {
+      "commit": "286e66301212a22fc2cf5ed5f067e5721deb14e5",
+      "tag": "v20241218-00-dedup-upload-ctrlc",
+      "parsed_at": "2026-11-23T20:40:11.667971+00:00"
+    }
+  ]
+}
