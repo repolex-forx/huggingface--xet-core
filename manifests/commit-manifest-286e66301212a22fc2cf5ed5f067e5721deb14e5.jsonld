@@ -42,9 +42,15 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 827785
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/286e66301212a22fc2cf5ed5f067e5721deb14e5/chunk-001.nq.gz",
+      "repolex:graphFileSize": 15645501
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-11-23T19:45:48.079438+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "v20241218-00-dedup-upload-ctrlc"
